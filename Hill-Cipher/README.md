@@ -66,7 +66,7 @@ K = | 7  6 |
 * **Enkripsi:** `MAGANG` -> `GYQMXE`
 * **Dekripsi:** `GYQMXE` -> `MAGANG`
 
-![Screenshot Enkripsi dan Dekripsi](screenshot_enkripsi_dekripsi.png)
+![Screenshot Enkripsi dan Dekripsi](screenshot_enkripsi_dekripsi_hill.png)
 
 ### B. Pengujian Pencarian Kunci (Known-Plaintext Attack)
 Pengujian pencarian kunci menggunakan sampel valid:
@@ -78,4 +78,4 @@ K = |  7   8 |
     | 19   3 |
 ```
 
-![Screenshot Cari Kunci](screenshot_cari_kunci.png)
+![Screenshot Cari Kunci](screenshot_cari_kunci_hill.png)
